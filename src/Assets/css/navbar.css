@@ -1,0 +1,25 @@
+.color-set {
+  background-color: gray;
+  border-radius: 5px;
+  color: white;
+}
+
+.underline-re {
+  color: white !important;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none !important;
+  font-weight: 600;
+  font-size: 15px;
+  text-align: center;
+}
+
+.under {
+  text-decoration: none !important;
+  text-align: center;
+}
+
+.label-tet {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Roboto", sans-serif;
+}
